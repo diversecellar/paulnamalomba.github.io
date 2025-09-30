@@ -1,8 +1,8 @@
-# Paul Namalomba - Software Engineer & Computational Scientist
+# Paul Namalomba - Software Engineer & Computational Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulnamalomba)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/diversecellar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paul.namalomba@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kabwenzenamalomba@gmail.com)
 
 > Computational Engineer specializing in materials testing analysis, data engineering, and full-stack development
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer and computational scientist with expertise in materials analysis, data engineering, and backend development. Currently working as a **SESKA Computational Engineer** developing advanced material analysis software and **SEAT Backend Developer** building robust Django applications for educational enrollment systems.
+I'm a passionate software engineer and computational engineer with expertise in materials analysis, data engineering, and backend development. Currently working as a **SESKA Computational Engineer** developing advanced material analysis software and **SEAT Backend Developer** building robust Django applications for educational enrollment systems.
 
 ### 🎯 Current Focus
 - **Materials Science Computing**: Developing sophisticated algorithms for LVDT sensor data analysis and materials testing
