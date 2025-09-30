@@ -23,12 +23,14 @@ I'm a passionate software engineer and computational scientist with expertise in
 
 ### **SESKA Computational Engineer**
 *Current Position*
-- Develop advanced material analysis software for engineering applications
+- Develop advanced material analysis software in **C++** and **Fortran** for engineering applications
 - Create algorithms for LVDT (Linear Variable Differential Transformer) sensor data processing
-- Implement sophisticated data filtering and segmentation techniques
+- Implement sophisticated data filtering and segmentation techniques using high-performance computing libraries
+- **Unique Windows Port**: Successfully ported SESKA software to Windows using **MinGW64** - a challenging and fairly unique implementation leveraging PETSc on Windows
+- **CI/CD Management**: Handle all continuous integration and deployment pipelines on **Bitbucket**
 - Build visualization pipelines for materials testing analysis
 
-**Key Technologies**: Python, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+**Key Technologies**: C++, Fortran, PETSc, OpenMPI, OpenBLAS, ScaLAPACK, MUMPS, METIS, MinGW64, Bitbucket CI/CD
 
 ### **SEAT Backend Developer**
 *Current Position*
@@ -45,6 +47,8 @@ I'm a passionate software engineer and computational scientist with expertise in
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -54,6 +58,15 @@ I'm a passionate software engineer and computational scientist with expertise in
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PETSc](https://img.shields.io/badge/-PETSc-FF6B6B?style=flat-square)
+![OpenMPI](https://img.shields.io/badge/-OpenMPI-4ECDC4?style=flat-square)
+
+### **HPC & Scientific Computing**
+![OpenBLAS](https://img.shields.io/badge/-OpenBLAS-45B7D1?style=flat-square)
+![ScaLAPACK](https://img.shields.io/badge/-ScaLAPACK-96CEB4?style=flat-square)
+![MUMPS](https://img.shields.io/badge/-MUMPS-FECA57?style=flat-square)
+![METIS](https://img.shields.io/badge/-METIS-FF9FF3?style=flat-square)
+![MinGW64](https://img.shields.io/badge/-MinGW64-54A0FF?style=flat-square)
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,6 +74,9 @@ I'm a passionate software engineer and computational scientist with expertise in
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ### **Specializations**
+- **High-Performance Computing**: C++/Fortran development with PETSc, OpenMPI, parallel computing
+- **Cross-Platform Development**: Unique Windows porting expertise using MinGW64 for scientific software
+- **CI/CD Engineering**: Bitbucket pipeline management and deployment automation
 - **Data Science & Machine Learning**: Statistical analysis, clustering algorithms, outlier detection
 - **Scientific Computing**: Materials testing analysis, LOWESS smoothing, gradient analysis
 - **System Administration**: Windows, Linux, automation scripting
