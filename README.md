@@ -46,6 +46,14 @@ I'm a passionate software engineer and computational engineer with expertise in 
 
 ## 🛠️ Technical Skills
 
+### **System Architecture and Operating Systems**
+
+![MinGW64](https://img.shields.io/badge/-MinGW64-54A0FF?style=flat-square)
+![MSYS2](https://img.shields.io/badge/-MSYS2-1E90FF?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-4ECDC4?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -67,7 +75,6 @@ I'm a passionate software engineer and computational engineer with expertise in 
 ![ScaLAPACK](https://img.shields.io/badge/-ScaLAPACK-96CEB4?style=flat-square)
 ![MUMPS](https://img.shields.io/badge/-MUMPS-FECA57?style=flat-square)
 ![METIS](https://img.shields.io/badge/-METIS-FF9FF3?style=flat-square)
-![MinGW64](https://img.shields.io/badge/-MinGW64-54A0FF?style=flat-square)
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
