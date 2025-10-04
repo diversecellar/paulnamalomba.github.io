@@ -261,9 +261,9 @@ Educational **mathematical tool** for solving systems of **simultaneous equation
 
 ## 📊 GitHub Statistics
 
-[![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diversecellar&show_icons=true&theme=dark&hide_border=true)](https://github.com/diversecellar)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=diversecellar&show_icons=true&theme=dark&hide_border=true)](https://github.com/diversecellar)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diversecellar&layout=compact&theme=dark&hide_border=true)](https://github.com/diversecellar)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diversecellar&layout=compact&theme=dark&hide_border=true)](https://github.com/diversecellar)
 
 ---
 
@@ -320,9 +320,9 @@ I'm always interested in discussing new opportunities, collaboration on interest
 
 ## 📄 Additional Resources
 
-- **[📋 Download My CV](./Paul-Namalomba_Curriculum-Vitae.pdf)** - Complete professional background and experience
-- **[🔗 GitHub Profile](https://github.com/diversecellar)** - Explore all my projects and contributions
-- **[💼 LinkedIn](https://linkedin.com/in/paulnamalomba)** - Professional network and updates
+- **[📋 Download My CV](./Paul-Namalomba_Curriculum-Vitae.pdf)** - Complete professional background and experience - showcasing my skills, certifications and referees!
+- **[🔗 GitHub Profile](https://github.com/diversecellar)** - Explore all my projects and contributions, perhaps even collaborate on something new!
+- **[💼 LinkedIn](https://linkedin.com/in/paulnamalomba)** - Professional network and updates, and also as a professional instant messaging platform...
 
 ---
 
