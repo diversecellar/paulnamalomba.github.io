@@ -1,4 +1,7 @@
-# Paul Namalomba - Software Engineer & Computational Engineer
+# Paul Namalomba - Computational Engineer, Software Engineer & Materials Scientist
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulnamalomba)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]( 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulnamalomba)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/diversecellar)
@@ -13,9 +16,10 @@
 I'm a passionate software engineer and computational engineer with expertise in materials analysis, data engineering, and backend development. Currently working as a **SESKA Computational Engineer** developing advanced material analysis software and **SEAT Backend Developer** building robust Django applications for educational enrollment systems.
 
 ### 🎯 Current Focus
-- **Materials Science Computing**: Developing sophisticated algorithms for LVDT sensor data analysis and materials testing
-- **Backend Development**: Building scalable Django applications with PostgreSQL databases
-- **Data Engineering**: Creating robust pipelines for scientific data processing and analysis
+- **Computational Engineering & Materials Engineering**: Developing finite element analysis tools for advanced materials testing. Computational mechanics, viscoplasticity, and composite materials.
+- **Machine Learning & Data Science**: Implementing clustering algorithms, outlier detection, and regression analysis for scientific data.
+- **Backend Development**: Building scalable Django applications with PostgreSQL databases. Building Python apps and modules for data processing and analysis.
+- **Data Engineering**: Creating robust pipelines for scientific data processing and analysis, ensuring data integrity and performance. Database design, management, and optimization.
 
 ---
 
