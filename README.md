@@ -117,83 +117,129 @@ Django-based web application for managing student enrollment and academic data.
 
 ## 🌟 Personal Projects
 
+### **[Datashadric - Data Science Toolkit](https://github.com/diversecellar/datashadric)**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
+
+A comprehensive Python package for data science, machine learning, statistical analysis, and visualization. Modularly organized for easy use and pip installation.
+
+**Features:**
+- **Machine Learning**: Naive Bayes models, logistic regression, model evaluation
+- **Statistical Analysis**: Normality testing, confidence intervals, hypothesis testing
+- **Data Manipulation**: Missing value analysis, data cleaning, one-hot encoding
+- **Regression Analysis**: OLS modeling with diagnostic checks
+- **Visualization**: Box plots, histograms, scatter plots, pairplots
+
+**Technologies**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy, Statsmodels
+
+---
+
+### **[Custom IP Masks - Privacy Proxy Server](https://github.com/diversecellar/custom-ip-masks)**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+A flexible HTTP/HTTPS proxy server built with Python and Flask for anonymous web browsing and IP masking with advanced privacy features.
+
+**Features:**
+- **IP Masking**: Hide real IP address from target servers
+- **Header Sanitization**: Remove privacy-revealing headers automatically
+- **User-Agent Rotation**: Automatic rotation to avoid detection
+- **Proxy Chaining**: Route traffic through multiple proxy servers
+- **Rate Limiting**: Built-in abuse prevention and stability
+- **SSL/TLS Support**: Secure encrypted connection handling
+
+**Technologies**: Python, Flask, HTTP/HTTPS Protocols, SSL/TLS, Network Security
+
+---
+
+### **[Basketball Scores - Stochastic and Regression-Based Predictor](https://github.com/diversecellar/basketPredictor)**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Data science project combining **web scraping**, **regression analysis**, and **visualization** for NBA basketball game prediction.
+
+**Features:**
+- **Web scraping** for real-time NBA data
+- **Advanced statistical analysis**
+- **Machine learning regression models**
+- **Data visualization** and analysis
+- **Investment decision support** tools
+
+**Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Web Scraping
+
+---
+
 ### **[Sequential PDF Merger](https://github.com/diversecellar/sequential-pdf-merger)**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A sophisticated PDF processing tool with GUI interface for merging multiple PDF files with advanced sorting and organization features.
+A sophisticated **PDF processing tool** with **GUI interface** for merging multiple PDF files with advanced sorting and organization features.
 
 **Features:**
-- Intelligent file sorting algorithms
-- User-friendly Tkinter GUI
-- Batch processing capabilities
-- PowerShell automation support
+- **Intelligent file sorting** algorithms
+- User-friendly **Tkinter GUI**
+- **Batch processing** capabilities
+- **PowerShell automation** support and implementation, for producing .exe
+
+**Technologies**: Python, PyMuPDF, PyPDF2, Tkinter
 
 ---
 
 ### **[A3 to A4 Converter](https://github.com/diversecellar/a3toa4-converter)**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Automated document processing tool for converting scanned A3 pages to A4 format with intelligent page detection and splitting.
+Automated **document processing tool** for converting scanned A3 pages to A4 format with **intelligent page detection** and splitting.
 
 **Features:**
-- Automated page size detection
-- Smart splitting algorithms
-- Batch processing for large documents
-- Image processing optimization
+- **Automated page size detection**
+- **Smart splitting algorithms** based on page size and content-placement
+- **Batch processing** for large documents
+- **Image processing optimization**
 
----
-
-### **[Basketball Game Predictor](https://github.com/diversecellar/basketPredictor)**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Data science project combining web scraping, regression analysis, and visualization for NBA basketball game prediction.
-
-**Features:**
-- Web scraping for real-time NBA data
-- Machine learning regression models
-- Data visualization and analysis
-- Investment decision support tools
-
-**Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Web Scraping
+**Technologies**: Python, PyMuPDF, PyPDF2, Tkinter
 
 ---
 
 ### **[Python Data Engineering Collection](https://github.com/diversecellar/python-data-engineering)**
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Comprehensive repository of data engineering projects including SQL, machine learning, AI, and data analysis implementations.
+Comprehensive repository of **data engineering projects** including **SQL**, **machine learning**, **AI**, and **data analysis** implementations.
 
 **Includes:**
-- SQL database design and optimization
-- Machine learning model implementations
-- Data pipeline architectures
-- Analysis notebooks and tutorials
+- **SQL database design** and optimization
+- **Machine learning model** implementations and examples
+- **Data pipeline architectures**
+- **Analysis notebooks** and tutorials
+
+**Technologies**: Python, SQL
 
 ---
 
 ### **[System Management Scripts](https://github.com/diversecellar/system-management_scripts)**
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-Collection of automation scripts for Linux, Windows, and MSYS64 system administration and management.
+Collection of **automation scripts** for **Linux**, **Windows**, and **MSYS64** system administration and management.
 
 **Features:**
-- Cross-platform compatibility
-- Automated system maintenance
-- Performance monitoring tools
-- Development environment setup
+- **Cross-platform compatibility**
+- **Automated system maintenance**
+- **Performance monitoring** tools
+- **Development environment setup**
+
+**Technologies**: Windows Powershell, Powershell 7+, Bourne-Again Shell
 
 ---
 
 ### **[Simultaneous Equations Solver](https://github.com/diversecellar/simple-simutaneous-equations)**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Educational mathematical tool for solving systems of simultaneous equations with user-friendly input interface.
+Educational **mathematical tool** for solving systems of **simultaneous equations** with user-friendly input interface.
 
 **Features:**
-- Multiple equation solving methods
-- Step-by-step solution display
-- Error handling and validation
-- Educational mathematics tool
+- **Multiple equation solving methods** two-variable and three-variable, multiple equation types 
+- **Step-by-step solution display**
+- **Error handling** and validation
+- Cross-platform **Mathematics tool** interactable through shell
+
+**Technologies**: Python Math, NumPy, Linear Algebra
 
 ---
 
