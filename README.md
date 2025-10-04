@@ -1,9 +1,6 @@
 # Paul Namalomba - Computational Engineer, Software Engineer & Materials Scientist
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulnamalomba)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]( 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulnamalomba)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/diversecellar)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kabwenzenamalomba@gmail.com)
 
@@ -16,10 +13,10 @@
 I'm a passionate software engineer and computational engineer with expertise in materials analysis, data engineering, and backend development. Currently working as a **SESKA Computational Engineer** developing advanced material analysis software and **SEAT Backend Developer** building robust Django applications for educational enrollment systems.
 
 ### 🎯 Current Focus
-- **Computational Engineering & Materials Engineering**: Developing finite element analysis tools for advanced materials testing. Computational mechanics, viscoplasticity, and composite materials.
-- **Machine Learning & Data Science**: Implementing clustering algorithms, outlier detection, and regression analysis for scientific data.
-- **Backend Development**: Building scalable Django applications with PostgreSQL databases. Building Python apps and modules for data processing and analysis.
-- **Data Engineering**: Creating robust pipelines for scientific data processing and analysis, ensuring data integrity and performance. Database design, management, and optimization.
+- **Computational Engineering & Materials Engineering**: Developing finite element analysis tools for advanced materials testing. Computational mechanics, viscoplasticity, and composite materials
+- **Machine Learning & Data Science**: Implementing clustering algorithms, outlier detection, and regression analysis for scientific data
+- **Backend Development**: Building scalable Django applications with PostgreSQL databases. Building Python apps and modules for data processing and analysis
+- **Data Engineering**: Creating robust pipelines for scientific data processing and analysis, ensuring data integrity and performance. Database design, management, and optimization
 
 ---
 
@@ -188,7 +185,8 @@ A sophisticated **PDF processing tool** with **GUI interface** for merging multi
 - **Intelligent file sorting** algorithms
 - User-friendly **Tkinter GUI**
 - **Batch processing** capabilities
-- **PowerShell automation** support and implementation, for producing .exe
+- **PowerShell automation** support and implementation, for producing .exe files for Windows users
+- **Cross-platform compatibility**: Works on Windows, Linux, and macOS through the shell as well.
 
 **Technologies**: Python, PyMuPDF, PyPDF2, Tkinter
 
