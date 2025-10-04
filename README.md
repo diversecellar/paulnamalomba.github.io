@@ -86,18 +86,25 @@ I'm a passionate software engineer and computational engineer with expertise in 
 
 ## 🔬 Featured Projects
 
-### **Advanced Materials Testing Data Processor**
+### **SESKA Finite Element Analysis Tool**
 *Professional Project - SESKA*
-A comprehensive Python application for analyzing materials testing data with LVDT sensors and strain measurements.
+A sophisticated finite element analysis software written in C++ and Fortran for advanced materials testing and computational mechanics applications.
 
 **Key Features:**
-- Advanced outlier detection using DBSCAN and Isolation Forest
-- Spatial segmentation with slope-change detection
-- LOWESS smoothing with gradient analysis
-- Comprehensive visualization pipeline
-- Robust error handling for real-world data
+- **Material Damage Mechanics**: Advanced algorithms for material failure analysis and damage progression
+- **Viscoplasticity Modeling**: Time-dependent plastic deformation analysis for complex materials
+- **Composite Mechanics**: Specialized routines for multi-phase and fiber-reinforced materials
+- **High-Performance Computing**: Parallel processing with OpenMPI for large-scale simulations
+- **Cross-Platform Support**: Successfully ported to Windows using MSVC++ and MinGW64
+- **HPC Integration**: Deployed and optimized for UCT's High-Performance Computing cluster
 
-**Technologies**: Python, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LOWESS
+**Technical Achievements:**
+- **Unique Windows Port**: Challenging implementation leveraging PETSc on Windows with MinGW64
+- **Full-Stack Development**: Complete pipeline from scientific research to programming to computational optimization
+- **CI/CD Management**: Comprehensive version control and deployment on Bitbucket
+- **Library Integration**: Advanced use of OpenMPI, PETSc, MUMPS, ScaLAPACK for parallel computation
+
+**Technologies**: C++, Fortran, PETSc, OpenMPI, OpenBLAS, ScaLAPACK, MUMPS, METIS, MinGW64, MSVC++, Bitbucket CI/CD, HPC Systems
 
 ---
 
